@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-grafico-70495": {
+      "hosting": {
+        "goty": [
+          "firestore-grafico-70495"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-grafico-70495"
+  }
+}
