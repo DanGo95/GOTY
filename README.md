@@ -1,27 +1,23 @@
-# Goty
+# GOTY
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
+GOTY es una aplicación web donde se puede votar por el juego ganador al GOTY, además podrás visualizar una gráfica en tiempo real de los resultados.
 
-## Development server
+## Demo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Ingrese a la dirección: https://firestore-grafico-70495.web.app/ para ver una demostración del proyecto.
 
-## Code scaffolding
+## Uso del proyecto
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Pre-requisitos
 
-## Build
+Se necesita tener instalado:
+``` Node.js``` 
+``` Angular CLI``` 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Instalación
 
-## Running unit tests
+Para tener el proyecto funcionando, se deben ejecutar los siguientes comandos dentro de la carpeta del mismo
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```
+node install npm
+```
