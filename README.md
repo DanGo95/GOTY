@@ -29,7 +29,6 @@ Luego, se debe configurar el archivo `enviroments.ts` con las credenciales de fi
 
 El proyecto fue construido con las siguientes herramientas de desarrollo:
 
-* [NodeJS](https://nodejs.org/es/) - Entorno de ejecución para Javascript
 * [Visual Studio Code](https://code.visualstudio.com) - Editor de codigo fuente 
 * [Angular](https://angular.io/) - Framework para aplicaciones web desarrollado en TypeScript
 * [Firebase](https://firebase.google.com/?hl=es) - Plataforma para el desarrollo de aplicaciones web y aplicaciones móviles
